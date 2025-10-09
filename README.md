@@ -1,12 +1,14 @@
-# 🚀 MasterFabric 100-Day Mobile Developer Internship Roadmap (From Foundational Skills to Professional Competence)
+# 🚀 MasterFabric 100-Day Software Developer Internship Roadmap (From Foundational Skills to Professional Competence)
 
-MasterFabric Information Technology Inc. is dedicated to crafting exceptional mobile applications with cutting-edge technology across diverse industries, including healthcare, fintech, e-commerce, and logistics. This 100-day roadmap is designed to empower aspiring developers to become skilled mobile developers in cross-platform development.
+MasterFabric Information Technology Inc. is dedicated to crafting exceptional software solutions with cutting-edge technology across diverse industries, including healthcare, fintech, e-commerce, and logistics. This 100-day roadmap is designed to empower aspiring developers to become skilled full-stack developers, with tracks in cross-platform mobile development and robust backend services.
 
 ## 🎯 Program Core Objectives
-* **Dual Platform Proficiency:** Achieve strong competency in the chosen platform (Flutter or Expo/React Native).
-* **Architectural Mastery:** Implement Clean Code, Design Patterns, and professional State Management solutions.
-* **Quality Assurance:** Master the practice of writing comprehensive tests (**Unit**, **Widget/Component**).
-* **Professional Workflow:** Gain experience in API integration, performance optimization, and basic **CI/CD** processes.
+* **Track Proficiency:** Achieve strong competency in a chosen track:
+    * **Mobile Development:** Flutter or Expo/React Native.
+    * **Backend Development:** NestJS.
+* **Architectural Mastery:** Implement Clean Code, Design Patterns, and professional application architecture (e.g., State Management for mobile, modular design for backend).
+* **Quality Assurance:** Master the practice of writing comprehensive tests (**Unit**, **Widget/Component**, **E2E**).
+* **Professional Workflow:** Gain experience in API design and integration, performance optimization, and basic **CI/CD** processes.
 
 ## 🤝 Our Commitment: The MasterFabric Manifesto
 This program is guided by our core values. All interns are expected to understand and embody our principles:
