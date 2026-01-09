@@ -1,10 +1,14 @@
 import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
+import { JetBrains_Mono } from 'next/font/google';
 import './globals.css';
 import { loadSiteData } from '@/utils/content-loader';
 import { SplashProvider } from '@/components/layout/SplashProvider';
 
-const inter = Inter({ subsets: ['latin'] });
+const jetbrainsMono = JetBrains_Mono({ 
+  subsets: ['latin'],
+  variable: '--font-mono',
+  display: 'swap',
+});
 
 export function generateMetadata(): Metadata {
   const siteData = loadSiteData();
@@ -32,7 +36,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={inter.className}>
+      <body className={jetbrainsMono.variable}>
         <SplashProvider>
           {children}
         </SplashProvider>
